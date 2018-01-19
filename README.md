@@ -1,4 +1,7 @@
 # safety_monitoring_agent
+## Dependency and architecture
+
+![](architecture.png)
 
 ## Introduction
 All of the project is implemented in Python.
